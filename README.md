@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <!--
 **GregoireK/GregoireK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Bonjour 👋🏽
 Je suis un Data Analyst Junior passionné par l'analyse de données et l'architecture de données. Bienvenue sur mon profil GitHub, où je partage mes projets et découvertes dans le monde passionnant des données.
 
 👨🏽‍💻 Compétences
