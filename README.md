@@ -16,13 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
-Salut ! 👋🏼
-Je suis Grégoire ! Je suis en train de me lancer dans le monde professionnel des données, et je suis complètement investi dans l'effort constant pour apprendre et progresser dans le domaine des données. Je plonge dans l'univers de l'analyse de données, de la science des données et de l'ingénierie des données, même si mon parcours académique ne m'a pas conduit exactement vers l'informatique ou les statistiques. Mais devine quoi ? Je ne laisse pas cela m'arrêter !
+Bonjour 👋🏽
+Je suis un Data Analyst Junior passionné par l'analyse de données et l'architecture de données. Bienvenue sur mon profil GitHub, où je partage mes projets et découvertes dans le monde passionnant des données.
 
-✅ Compétences
-Analyse exploratoire des données, Manipulation de données, Analyse statistique, Visualisation des données, Apprentissage automatique, Traitement du langage naturel, ETL/ELT, RDBMS.
+👨🏽‍💻 Compétences
+En tant que Data Analyst Junior, j'ai développé des compétences solides en exploration de données, manipulation de données, analyse statistique, et visualisation des données. Mon expertise s'étend également à l'architecture de données, où je suis impliqué dans la conception, la gestion, et l'optimisation des structures de données.
 
-💻 Stack Technologique
-Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), BigQuery, Looker Studio, Spark, Airflow, Kafka, Docker, Google Cloud, Streamlit, AWS
+🛠️ Stack Technologique
+Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), BigQuery, Tableau, Looker Studio, Spark, Airflow, Kafka, Docker, Google Cloud, Streamlit, AWS.
 
-📂 Portfolio de Projets
+📈 Projets
+N'hesitez pas à explorer mes projets
+
+🌐 Connectons-nous !
+Je suis ouvert aux collaborations et aux discussions sur les opportunités d'apprentissage. Si vous souhaitez échanger sur des projets liés à l'analyse de données et à l'architecture de données, n'hésitez pas à me contacter.
+
+Merci de visiter mon profil, et j'ai hâte de discuter avec vous ! 🚀
+
+
