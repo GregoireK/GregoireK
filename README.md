@@ -24,7 +24,10 @@ En tant que Data Analyst Junior, j'ai développé des compétences solides en ex
 Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), BigQuery, Tableau, Looker Studio, Spark, Airflow, Kafka, Docker, Google Cloud, Streamlit, AWS.
 
 📈 Projets
-N'hesitez pas à explorer mes projets
+
+N'hesitez pas à explorer mes projets:
+
+- https://github.com/GregoireK/projet_final.git
 
 🌐 Connectons-nous !
 Je suis ouvert aux collaborations et aux discussions sur les opportunités d'apprentissage. Si vous souhaitez échanger sur des projets liés à l'analyse de données et à l'architecture de données, n'hésitez pas à me contacter.
