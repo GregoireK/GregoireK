@@ -21,7 +21,7 @@ Je suis un Data Analyst Junior passionné par l'analyse de données et l'archite
 En tant que Data Analyst Junior, j'ai développé des compétences solides en exploration de données, manipulation de données, analyse statistique, et visualisation des données. Mon expertise s'étend également à l'architecture de données, où je suis impliqué dans la conception, la gestion, et l'optimisation des structures de données.
 
 🛠️ Stack Technologique
-Python, SQL (MySQL, Postgres, MS SQL Server, Dbeaver), BigQuery, Tableau, Looker Studio, Spark, Airflow, Kafka, Docker, Google Cloud, Streamlit, AWS.
+Python, SQL (MySQL, Postgres), BigQuery, Tableau, Looker Studio, Spark, Airflow, Kafka, Docker, Google Cloud, Streamlit, AWS.
 
 📈 Projets
 
