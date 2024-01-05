@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Je suis un Data Analyst Junior passionné par l'analyse de données et l'architecture de données. Bienvenue sur mon profil GitHub, où je partage mes projets et découvertes dans le monde passionnant des données.
+Je suis un Data Analyst passionné par l'analyse de données et l'architecture de données. Bienvenue sur mon profil GitHub, où je partage mes projets et découvertes dans le monde passionnant des données.
 
 👨🏽‍💻 Compétences
 En tant que Data Analyst Junior, j'ai développé des compétences solides en exploration de données, manipulation de données, analyse statistique, et visualisation des données. Mon expertise s'étend également à l'architecture de données, où je suis impliqué dans la conception, la gestion, et l'optimisation des structures de données.
