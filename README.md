@@ -29,7 +29,7 @@ N'hesitez pas à explorer mes projets:
 
 - [QualiExtra (DashBoard et Data Infrastucture)](https://github.com/GregoireK/projet_final.git).
 - [Projet EDA Netflix](https://github.com/GregoireK/NetFlix_EDA.git)
-- [Projet Northwind DB (SQL)](
+- [Projet Northwind DB (SQL)](https://github.com/GregoireK/Northwind-DB.git)
 
 🌐 Connectons-nous !
 Je suis ouvert aux collaborations et aux discussions sur les opportunités d'apprentissage. Si vous souhaitez échanger sur des projets liés à l'analyse de données et à l'architecture de données, n'hésitez pas à me contacter.
